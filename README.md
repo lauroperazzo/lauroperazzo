@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @lauroperazzo
-- 🎮 I'm currently working on games 
+<h2>Hello world, I'm Lauro Perazzo</h2>
+A project manager from Brazil
+
+<br>🔭 I’m currently working on education solutions, software development, and games
+
+📫 How to reach me: lauroperazzo@outlook.com
 
 
-<div align="left">
+<br><div align="left">
   <a href="https://github.com/lauroperazzo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauroperazzo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauroperazzo&layout=compact&langs_count=7&theme=dark"/>

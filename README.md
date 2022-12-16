@@ -1,7 +1,6 @@
 <h3>Hello world, I'm Lauro Perazzo</h3>
-<h4>A web development student from Brazil</h4>
+<h4>Game Producer | C# | C++ | Python | PHP</h4>
 
-<p>🔭 </p>
 <p>📫 How to reach me: lauroperazzo@cosmoflakes.com</p>
 
 
